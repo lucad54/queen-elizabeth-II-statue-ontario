@@ -14,18 +14,18 @@
 # on GitHub Pages it is your github repository's name prefixed with a /
 #baseurl: /collectionbuilder-gh 
 # location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
+source-code: https://github.com/lucad54/queen-elizabeth-ii-statue-ontario
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Statue of Queen Elizabeth II at Queens Park 
+title: The Silent History Podcast 
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: A collection built around the HIST4840 podcast on the Statue of Queen Elizabeth II at Queens Park 
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "If this were a real podcast episode, this would be where I would write an exciting introduction. The audio presented here is really just a brief sample of public domain material, and not really a podcast... but it works for the purposes of this template and you can replace it with your own audio."
+description: "Luca and Ryan's discussion sits itself around the statue's public impact. Attempting to get a glimpse of the diverse perspectives in a diverse city, from Indigenous community members, government officials, and Ontario residents-on the role of the statue in the province's cultural landscape. The podcast draws on historic context and theories from studies, news sources and recent debates about public monuments in order to critically consider the statue as a focus of continued conversations about collective memory, colonialism, and the interpretation of historical figures in public spaces."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: "Luca D'Angelo and Ryan Mayville"
 
