@@ -14,7 +14,7 @@ credits: false
 
 ## Description
 
-We delve into the history, design, and multi-layered meaning of the new statue of Queen Elizabeth II that's just been erected at Queen's Park in Ontario. The podcast tells how it was done, including an insightful interview with the artist herself, Ruth Abernethy, who created the statue.
+We dive into the history, design, and multi-layered meaning of the new statue of Queen Elizabeth II that's just been erected at Queen's Park in Ontario. The podcast tells how it was done, including an insightful interview with the artist herself, Ruth Abernethy, who created the statue.
 
 ## Transcript
 
@@ -39,20 +39,20 @@ The creators would like to acknowledge assistance and support from:
 
 ## References
 
-Bellentani, Federico, and Mario Panico. "The Meanings of Monuments and Memorials: Toward a Semiotic Approach." Social Semiotics 26, no. 5 (2016): 386-402. https://orca.cardiff.ac.uk/id/eprint/96405/.
+Bellentani, Federico, and Mario Panico. "The Meanings of Monuments and Memorials: Toward a Semiotic Approach." *Social Semiotics* 26, no. 5 (2016): 386-402. https://orca.cardiff.ac.uk/id/eprint/96405/.
 
-DeClerq, Katherine. "Statue of Queen Elizabeth II to Be Installed at Ontario Legislature by End of Year." CTV News, August 1, 2023. https://toronto.ctvnews.ca/statue-of-queen-elizabeth-ii-to-be-installed-at-ontario-legislature-by-end-of-year-1.6502444.
+DeClerq, Katherine. "Statue of Queen Elizabeth II to Be Installed at Ontario Legislature by End of Year." *CTV News*, August 1, 2023. https://toronto.ctvnews.ca/statue-of-queen-elizabeth-ii-to-be-installed-at-ontario-legislature-by-end-of-year-1.6502444.
 
-Ferguson, Rob. “After Years of Delay, Queen Elizabeth II Statue Unveiled at Queen’s Park.” Toronto Star, November 7, 2023. https://www.thestar.com/politics/provincial/after-years-of-delay-queen-elizabeth-ii-statue-unveiled-at-queens-park/article_b88df8b9-4dd8-5155-b657-b852ea8ef053.html.
+Ferguson, Rob. “After Years of Delay, Queen Elizabeth II Statue Unveiled at Queen’s Park.” *Toronto Star*, November 7, 2023. https://www.thestar.com/politics/provincial/after-years-of-delay-queen-elizabeth-ii-statue-unveiled-at-queens-park/article_b88df8b9-4dd8-5155-b657-b852ea8ef053.html.
 
-Introduction: The Memorialisation of Monarchs in an International Context, Chapter Introduction, pp. 1–9. November 23, 2021.
+*Introduction: The Memorialisation of Monarchs in an International Context*, Chapter Introduction, pp. 1–9. November 23, 2021.
 
-Legislative Assembly of Ontario. "Explore Queen’s Park." Legislative Assembly of Ontario. Accessed November 1, 2024. https://www.ola.org/en/visit-learn/parliament-government/queens-park/explore-queens-park.
+Legislative Assembly of Ontario. "Explore Queen’s Park." *Legislative Assembly of Ontario*. https://www.ola.org/en/visit-learn/parliament-government/queens-park/explore-queens-park.
 
-NOW Staff. “People Are Divided over New Statue of Queen Elizabeth II at Queen’s Park.” NOW Toronto, November 9, 2023. https://nowtoronto.com/news/people-are-divided-over-new-statue-of-queen-elizabeth-ii/.
+NOW Staff. “People Are Divided over New Statue of Queen Elizabeth II at Queen’s Park.” *NOW Toronto*, November 9, 2023. https://nowtoronto.com/news/people-are-divided-over-new-statue-of-queen-elizabeth-ii/.
 
-Office of the Premier. "Ontario Unveils New Statue to Honour Queen Elizabeth II." Ontario Newsroom, November 3, 2023. https://news.ontario.ca/en/release/1003777/ontario-unveils-new-statue-to-honour-queen-elizabeth-ii.
+Office of the Premier. "Ontario Unveils New Statue to Honour Queen Elizabeth II." *Ontario Newsroom*, November 3, 2023. https://news.ontario.ca/en/release/1003777/ontario-unveils-new-statue-to-honour-queen-elizabeth-ii.
 
-Omstead, Jordan. “Queen Elizabeth Statue Coming to Ontario Legislature after Delay, Province Fronts $1.5M.” CBC News, August 2, 2023. https://www.cbc.ca/news/canada/toronto/queen-elizabeth-statue-queens-park-1.6925472.
+Omstead, Jordan. “Queen Elizabeth Statue Coming to Ontario Legislature after Delay, Province Fronts $1.5M.” *CBC News*, August 2, 2023. https://www.cbc.ca/news/canada/toronto/queen-elizabeth-statue-queens-park-1.6925472.
 
 
