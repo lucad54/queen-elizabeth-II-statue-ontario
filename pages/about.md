@@ -31,13 +31,14 @@ The following links and resources were referred to in in the podcast audio:
 The creators would like to acknowledge assistance and support from:
 
 - The York University Libraries' [Making & Media Creation Lab](https://www.library.yorku.ca/ds/)
-- Ruth Abernethy ([Ruth Abernethy](https://www.ruthabernethy.com/)) 
+- Ruth Abernethy [Ruth Abernethy](https://www.ruthabernethy.com/) 
 - Professor Jennifer Bonnell
-- Free Music Archive [Free Music Archive](https://freemusicarchive.org/about/)) 
+- Internet Archive [God Save The Queen](https://archive.org/details/GodSaveTheQueen_306)
+- Free Music Archive [Free Music Archive](https://freemusicarchive.org/about/) 
 
 ## Land Acknowledment
 
-"I would like to begin by acknowledging the Indigenous Peoples of all the lands that we are on today. While we are on a virtual platform, I would like to take a moment to acknowledge the importance of the lands, which we each call home."
+"We would like to begin by acknowledging the Indigenous Peoples of all the lands that we are on today. While we are on a virtual platform, we would like to take a moment to acknowledge the importance of the lands, which we each call home."
 
 ## References
 
