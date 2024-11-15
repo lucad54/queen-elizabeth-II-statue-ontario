@@ -31,7 +31,9 @@ The following links and resources were referred to in in the podcast audio:
 The creators would like to acknowledge assistance and support from:
 
 - The York University Libraries' [Making & Media Creation Lab](https://www.library.yorku.ca/ds/)
-- Ruth Abernethy 
+- Ruth Abernethy ([Ruth Abernethy](https://www.ruthabernethy.com/)) 
+- Professor Jennifer Bonnell
+- Free Music Archive [Free Music Archive](https://freemusicarchive.org/about/)) 
 
 ## Land Acknowledment
 
