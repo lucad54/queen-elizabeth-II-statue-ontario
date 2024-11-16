@@ -30,7 +30,7 @@ The following links and resources were referred to in in the podcast audio:
 5. NOW Staff. “People Are Divided over New Statue of Queen Elizabeth II at Queen’s Park.” [https://nowtoronto.com/news/people-are-divided-over-new-statue-of-queen-elizabeth-ii/](https://nowtoronto.com/news/people-are-divided-over-new-statue-of-queen-elizabeth-ii/)
 6. Office of the Premier. "Ontario Unveils New Statue to Honour Queen Elizabeth II." [https://news.ontario.ca/en/release/1003777/ontario-unveils-new-statue-to-honour-queen-elizabeth-ii](https://news.ontario.ca/en/release/1003777/ontario-unveils-new-statue-to-honour-queen-elizabeth-ii)
 7. Jordan Omstead. “Queen Elizabeth Statue Coming to Ontario Legislature after Delay, Province Fronts $1.5M.” [https://www.cbc.ca/news/canada/toronto/queen-elizabeth-statue-queens-park-1.6925472](https://www.cbc.ca/news/canada/toronto/queen-elizabeth-statue-queens-park-1.6925472)
-Gabrielle Storey, *Introduction: The Memorialisation of Monarchs in an International Context*, [https://link.springer.com/chapter/10.1007/978-3-030-84130-0_1](https://link.springer.com/chapter/10.1007/978-3-030-84130-0_1)
+8. Gabrielle Storey, *Introduction: The Memorialisation of Monarchs in an International Context*, [https://link.springer.com/chapter/10.1007/978-3-030-84130-0_1](https://link.springer.com/chapter/10.1007/978-3-030-84130-0_1)
 
 ## Acknowledgments
 
