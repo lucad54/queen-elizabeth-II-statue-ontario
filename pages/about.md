@@ -33,8 +33,10 @@ The creators would like to acknowledge assistance and support from:
 - The York University Libraries' [Making & Media Creation Lab](https://www.library.yorku.ca/ds/)
 - Ruth Abernethy [Ruth Abernethy](https://www.ruthabernethy.com/) 
 - Professor Jennifer Bonnell
-- Internet Archive [God Save The Queen](https://archive.org/details/GodSaveTheQueen_306)
-- Free Music Archive [Free Music Archive](https://freemusicarchive.org/about/) 
+- Internet Archive [internet Archive](https://archive.org/about/)
+- Free Music Archive [Free Music Archive](https://freemusicarchive.org/about/)
+- Unsplash (Unsplash](https://unsplash.com/about)
+- Canadian News Sources:Canadian Broadcasting Corporation (CBC), The Globe and Mail (The Canadian Press), Toronto Star 
 
 ## Land Acknowledment
 
