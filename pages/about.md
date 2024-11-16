@@ -38,7 +38,7 @@ The creators would like to acknowledge assistance and support from:
 
 - The York University Libraries' [Making & Media Creation Lab](https://www.library.yorku.ca/ds/)
 - [Ruth Abernethy](https://www.ruthabernethy.com/) 
-- Professor Jennifer Bonnell
+- [Professor Jennifer Bonnell](https://profiles.laps.yorku.ca/profiles/bonnellj/)
 - [Internet Archive](https://archive.org/about/)
 - [Free Music Archive](https://freemusicarchive.org/about/)
 - [Unsplash](https://unsplash.com/about)
