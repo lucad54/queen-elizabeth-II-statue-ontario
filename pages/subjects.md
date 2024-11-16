@@ -10,4 +10,4 @@ cloud-fields: site.data.theme.subjects-fields
 
 ## Browse Subjects
 
-
+This word cloud visualization allows for the browsing of Subjects and Themes from the Podcast.
