@@ -10,5 +10,5 @@ cloud-fields: site.data.theme.locations-fields
 
 ## Browse Locations
 
-This word cloud visualization allows for the browsing of locations.
+This word cloud visualization allows for the browsing of locations related to the Podcast.
 
