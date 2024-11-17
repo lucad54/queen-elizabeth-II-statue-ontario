@@ -10,7 +10,7 @@ credits: false
 
 {% include feature/jumbotron.html objectid="banner01" %}
 
-{% include feature/nav-menu.html sections="Description;Transcript;Links;Acknowledgments;References" %}
+{% include feature/nav-menu.html sections="Description;Transcript;Links;Acknowledgments;Land Acknowledgment;References" %}
 
 ## Description
 
