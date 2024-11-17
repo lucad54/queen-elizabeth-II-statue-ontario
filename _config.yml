@@ -40,10 +40,10 @@ metadata: hist4840-template
 # Site/Organization Branding 
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
-# organization-name: "York University Libraries (YUL)"
-# organization-link: https://library.yorku.ca/
-# organization-logo-banner: 
-# organization-logo-nav: 
+organization-name: "York University Libraries (YUL)"
+organization-link: https://library.yorku.ca/
+organization-logo-banner: 
+organization-logo-nav: 
 
 ##########
 # ROBOTS EXCLUDE
