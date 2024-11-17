@@ -96,10 +96,11 @@ Luca: And we’d like to thank Professor Jennifer Bonnell, the Making Media Crea
 - [Professor Jennifer Bonnell](https://profiles.laps.yorku.ca/profiles/bonnellj/)
 - [Internet Archive](https://archive.org/about/)
 - [Free Music Archive](https://freemusicarchive.org/about/)
+- [Free Sound](https://freesound.org/help/about/) 
 - [Unsplash](https://unsplash.com/about)
 - Canadian News Sources:Canadian Broadcasting Corporation (CBC), The Globe and Mail (The Canadian Press), Toronto Star (Star Staff), Ontario News Room (Office of the Premier)
 
-## Land Acknowledment
+## Land Acknowledgment
 
 "We would like to begin by acknowledging the Indigenous Peoples of all the lands that we are on today. While we are on a virtual platform, we would like to take a moment to acknowledge the importance of the lands, which we each call home."
 
