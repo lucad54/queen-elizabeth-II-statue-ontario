@@ -40,6 +40,7 @@ Ruth Abernethy: "There’s no real phase one, phase two. It was, you know, what 
 Luca: As Ruth revealed, creating this statue was no small feat. It was a meticulous process, delayed over the years, and completed amidst both enthusiasm and controversy. Paul Calandra, Ontario’s Legislative Affairs Minister, played a significant role in ensuring Ruth’s work reached the finish line, securing government funding. The unveiling followed Queen Elizabeth II’s death, intensifying public interest in honouring her legacy as Britain’s longest-reigning monarch.
 
 Ryan: This leads us to a central question we focused on in our research. What does this statue represent, and who does it honour? According to Ruth, it was clear the statue was symbolic of Queen Elizabeth II’s personal achievements, as opposed to the broader symbolism of the British monarchy.
+
 [3:45 – 4:25] 
 Ruth Abernethy: "But the one thing that was really clear from the beginning was that this was to honor Queen Elizabeth. That was the key point, you know, that the commissioners kept going back to. How could it best honor her? They were looking for something that would embody her strength and that historical continuity, you know, but also something that might have a bit of a modern touch to it, reflecting the queen's later years. So that was the focus."
 
