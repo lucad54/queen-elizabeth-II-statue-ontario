@@ -99,7 +99,7 @@ Luca: And we’d like to thank Professor Jennifer Bonnell, the Making Media Crea
 - [Free Music Archive](https://freemusicarchive.org/about/) (Sempre Maestoso by Dee Yan-Key)
 - [Free Sound](https://freesound.org/help/about/) 
 - [Unsplash](https://unsplash.com/about)
-- Canadian News Sources: Canadian Broadcasting Corporation (CBC), The Globe and Mail (The Canadian Press), Toronto Star (Star Staff), Ontario News Room (Office of the Premier)
+- Canadian News Sources: Canadian Broadcasting Corporation (CBC), Canadian Television News (CTV News), The Globe and Mail (The Canadian Press), Toronto Star (Star Staff), Ontario News Room (Office of the Premier)
 
 ## Land Acknowledgment
 
