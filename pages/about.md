@@ -61,7 +61,7 @@ Ryan: Those ideas are very important aspects to consider, especially when dealin
 
 Luca: Finally, we look into how the statue interacts with Ontario’s past, and how its interpretation may change over time.
 
-[7:30-8:00]: 
+[7:30-8:00] 
 Ruth Abernethy: "I think straightforward is still the phrase. I mean, I don’t think we wanted something that was too avant-garde or too far from the traditional, because, you know, it's a public monument. I would assume it’s not a public portrait that needs a lot of interpretation. The goal was that anyone could walk up to it and just see and understand who she was and what she meant. So, straightforward in that sense, yes."
 
 [8:00-9:50] 
