@@ -103,7 +103,7 @@ Luca: And we’d like to thank Professor Jennifer Bonnell, the Making Media Crea
 
 ## Land Acknowledgment
 
-"We would like to begin by acknowledging the Indigenous Peoples of all the lands that we are on today. While we are on a virtual platform, we would like to take a moment to acknowledge the importance of the lands, which we each call home."
+*"We would like to acknowledge we are on the traditional territory of many nations including the Mississaugas of the Credit, the Anishnabeg, the Chippewa, the Haudenosaunee and the Wendat peoples and is now home to many diverse First Nations, Inuit and Métis peoples. While we are on a virtual platform, we would like to take a moment to acknowledge the importance of the lands, which we each call home."*
 
 ## References
 
