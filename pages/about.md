@@ -18,25 +18,25 @@ We dive into the history, design, and multi-layered meaning of the new statue of
 
 ## Transcript
 
-[0:00 – 0:15] (Intro music fades in: "God Save the Queen")
+**[0:00 – 0:15]** *(Intro music fades in: "God Save the Queen")*
 
-[0:15 – 0:30] 
+**[0:15 – 0:30]**  
 Luca: Welcome to the Statue Podcast! I’m Luca D’Angelo...
 
 Ryan: And I’m Ryan Mayville. We’re both history majors, and this podcast is part of our Public History course with Professor Jennifer Bonnell, at York University. Today, we’re diving into the history and significance of the Queen Elizabeth II statue recently installed at Queen’s Park in Ontario.
 
-[0:30 – 1:15] 
+**[0:30 – 1:15]** 
 Ryan: To give you some background, Queen’s Park has been home to many historical statues over the years, like those of Queen Victoria and Sir John A. Macdonald. The Queen Elizabeth II statue, depicting her as she appeared in 1977 during her Silver Jubilee, was designed and created by Canadian artist Ruth Abernethy and unveiled in late 2023 after years of planning. The statue itself shows her seated on the Canadian Senate Throne, symbolizing her role in Canada’s history.
 
 Luca: Yeah, this statue was commissioned to commemorate Queen Elizabeth’s reign, the longest-reigning monarch in British history. But, as we’ll discuss, it’s not without controversy, especially regarding its colonial implications and the broader conversations around memorializing monarchs in post-colonial societies.
 
-[1:15 – 2:00] 
+**[1:15 – 2:00]** 
 Ryan: To delve deeper, we had the privilege of speaking with Ruth Abernethy, the artist behind this statue. Ruth’s career spans various monumental works, and she’s known for her attention to historical details and the personal touches she infuses into her subjects. We wanted to learn more about her vision, her process, and her perspective on memorializing Queen Elizabeth II.
 
-[2:00 – 2:30] 
+**[2:00 – 2:30]**  
 Ruth Abernethy: "There’s no real phase one, phase two. It was, you know, what do you think? We'd like designs for the queen standing. We’d like your ideas on the queen seated. We’d like your ideas on the queen on a horse. The idea was that they’d be very similar to a previous statue of the queen in a kind of similar regal aspect. So, you know, some things were changing here and there, but a lot of it was about getting those initial thoughts together about what she could look like. And the statue that was put into Toronto in what, 1906 or something? And they were to be similar pieces.”
 
-[2:30-3:45] 
+**[2:30-3:45]** 
 Luca: As Ruth revealed, creating this statue was no small feat. It was a meticulous process, delayed over the years, and completed amidst both enthusiasm and controversy. Paul Calandra, Ontario’s Legislative Affairs Minister, played a significant role in ensuring Ruth’s work reached the finish line, securing government funding. The unveiling followed Queen Elizabeth II’s death, intensifying public interest in honouring her legacy as Britain’s longest-reigning monarch.
 
 Ryan: This leads us to a central question we focused on in our research. What does this statue represent, and who does it honour? According to Ruth, it was clear the statue was symbolic of Queen Elizabeth II’s personal achievements, as opposed to the broader symbolism of the British monarchy.
@@ -48,10 +48,10 @@ Luca: Abernethy emphasized the Queen’s unique role and achievements. This stat
 
 Ryan: Exactly! Abernethy wanted this statue to reflect the Queen and Her legacy as a remarkable leader, not focusing on the grandiose history of the British monarchy. The question remains of whether a statue like this can avoid those broader associations. This brings us to our next section on Indigenous and community perspectives.
 
-[5:10 – 5:15] 
+**[5:10 – 5:15]** 
 Luca: We asked Ruth whether Indigenous voices or other local perspectives were part of the planning process.
 
-[5:15 - 6:00] 
+**[5:15 - 6:00]** 
 Ruth Abernethy: "There weren’t really. You know, did I mention amateur commissioners? I don’t want to sound dismissive. I mean, they were incredibly engaged in the project, very dedicated. But they weren’t professionals in this specific area, you know, they weren’t sculptors or public artists. So there was a bit of, let’s say, a learning curve in the tasks they were undertaking. It wasn’t that they didn’t have ideas, but there were some basic things they hadn’t thought of that came up during the process, you know? Just practical stuff about materials or scale that a more seasoned artist would be familiar with."
 
 [6:00-7:30]
@@ -61,10 +61,10 @@ Ryan: Those ideas are very important aspects to consider, especially when dealin
 
 Luca: Finally, we look into how the statue interacts with Ontario’s past, and how its interpretation may change over time.
 
-[7:30-8:00] 
+**[7:30-8:00]** 
 Ruth Abernethy: "I think straightforward is still the phrase. I mean, I don’t think we wanted something that was too avant-garde or too far from the traditional, because, you know, it's a public monument. I would assume it’s not a public portrait that needs a lot of interpretation. The goal was that anyone could walk up to it and just see and understand who she was and what she meant. So, straightforward in that sense, yes."
 
-[8:00-9:50] 
+**[8:00-9:50]** 
 Ryan: Ruth gives us a very detailed response on this topic, one which due to time we cannot fully listen to and unpack. But, she discusses how she sees it as not a public portrait needing a lot of interpretation. She also mentions how if we’re looking at the history of the monarchy, Canada also needs to look into its own history, and the decisions we’ve made.
 
 Luca: This relates to the idea of the semiotic approach, something that I read in an article written by Federico Bellentani and Mario Panico. It identifies looking at statues and monuments through the lens of a semiotic approach, meaning that we analyze the cultural context in which a monument was erected.
@@ -73,7 +73,7 @@ Ryan: It also means that you analyze how the meanings of monuments can change as
 
 Luca: And we’d like to thank Professor Jennifer Bonnell, the Making Media Creation Lab at York University, and thank you to everyone for listening to the Silent Historian.
 
-[9:50-10:00] (Outro music fades out: "God Save the Queen" - instrumental.)
+**[9:50-10:00]** *(Outro music fades out: "God Save the Queen" - instrumental.)*
 
 
 ## Links
