@@ -41,7 +41,7 @@ Luca: As Ruth revealed, creating this statue was no small feat. It was a meticul
 
 Ryan: This leads us to a central question we focused on in our research. What does this statue represent, and who does it honour? According to Ruth, it was clear the statue was symbolic of Queen Elizabeth II’s personal achievements, as opposed to the broader symbolism of the British monarchy.
 
-[3:45 – 4:25] 
+**[3:45 – 4:25]** 
 Ruth Abernethy: "But the one thing that was really clear from the beginning was that this was to honor Queen Elizabeth. That was the key point, you know, that the commissioners kept going back to. How could it best honor her? They were looking for something that would embody her strength and that historical continuity, you know, but also something that might have a bit of a modern touch to it, reflecting the queen's later years. So that was the focus."
 
 Luca: Abernethy emphasized the Queen’s unique role and achievements. This statue is intended to separate Queen Elizabeth as an individual from the weight of the institution of the monarchy.
