@@ -14,7 +14,7 @@ credits: false
 
 ## Description
 
-We dive into the history, design, and multi-layered meaning of the new statue of Queen Elizabeth II that's just been erected at Queen's Park in Ontario. With the help of an insightful interview with the artist herself, Ruth Abernethy, this episode brings to life the creation of this memorialization. Our podcast draws on historic/social contextes and theories from studies, news sources and recent debates around the public history of this statue. Connecting to the overall theme of continued conversation about collective memory, colonialism, and the interpretation of historical figures in public spaces.
+We dive into the history, design, and multi-layered meaning of the new statue of Queen Elizabeth II that's just been erected at Queen's Park in Ontario. With the help of an insightful interview with the artist herself, Ruth Abernethy, this episode brings to life the creation of this memorialization. Our podcast draws on historic/social contextes and theories from studies, news sources and recent debates around the public history of this statue. Connecting to the overall theme of collective memory, colonialism, and the interpretation of historical statues in public spaces.
 
 ## Transcript
 
