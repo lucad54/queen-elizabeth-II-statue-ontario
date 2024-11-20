@@ -54,7 +54,7 @@ Luca: We asked Ruth whether Indigenous voices or other local perspectives were p
 **[5:15 - 6:00]** 
 Ruth Abernethy: "There weren’t really. You know, did I mention amateur commissioners? I don’t want to sound dismissive. I mean, they were incredibly engaged in the project, very dedicated. But they weren’t professionals in this specific area, you know, they weren’t sculptors or public artists. So there was a bit of, let’s say, a learning curve in the tasks they were undertaking. It wasn’t that they didn’t have ideas, but there were some basic things they hadn’t thought of that came up during the process, you know? Just practical stuff about materials or scale that a more seasoned artist would be familiar with."
 
-[6:00-7:30]
+**[6:00-7:30]**
 Luca: We learn here that the original team surrounding the project in 2016 were “amateurs”, a sentiment that Ruth shared throughout our interview. So, it isn’t too surprising to learn that Indigenous perspectives weren’t actively included. Still, this brings up important questions about representation. Especially, since Statues, as many scholars suggest, aren’t neutral. When Indigenous leaders like Sol Mamakwa express concern that such a statue is allowing for broader colonial symbols that remain in public spaces.
 
 Ryan: Those ideas are very important aspects to consider, especially when dealing with an area so impactful to the world, Canada, and Ontario as the British Monarchy was and still is. Systems are still entrenched within our society to this day. But, the arguments that Ruth laid out are strong: This statue honours the person that Queen Elizabeth II was.
@@ -93,9 +93,9 @@ Luca: And we’d like to thank Professor Jennifer Bonnell, the Making Media Crea
 
 *The creators would like to acknowledge assistance and support from:*
 
-- The York University Libraries' [Making & Media Creation Lab](https://www.library.yorku.ca/ds/)
-- [Ruth Abernethy](https://www.ruthabernethy.com/) 
+- [Ruth Abernethy](https://www.ruthabernethy.com/)
 - [Professor Jennifer Bonnell](https://profiles.laps.yorku.ca/profiles/bonnellj/)
+- The York University Libraries' [Making & Media Creation Lab](https://www.library.yorku.ca/ds/)
 - [Internet Archive](https://archive.org/about/)
 - [Free Music Archive](https://freemusicarchive.org/about/) (Sempre Maestoso by Dee Yan-Key)
 - [Free Sound](https://freesound.org/help/about/) 
