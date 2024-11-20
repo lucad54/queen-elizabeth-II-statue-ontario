@@ -51,20 +51,20 @@ Ryan: Exactly! Abernethy wanted this statue to reflect the Queen and Her legacy 
 **[5:10 – 5:15]** 
 Luca: We asked Ruth whether Indigenous voices or other local perspectives were part of the planning process.
 
-**[5:15 - 6:00]** 
+**[5:15 - 5:45]** 
 Ruth Abernethy: "There weren’t really. You know, did I mention amateur commissioners? I don’t want to sound dismissive. I mean, they were incredibly engaged in the project, very dedicated. But they weren’t professionals in this specific area, you know, they weren’t sculptors or public artists. So there was a bit of, let’s say, a learning curve in the tasks they were undertaking. It wasn’t that they didn’t have ideas, but there were some basic things they hadn’t thought of that came up during the process, you know? Just practical stuff about materials or scale that a more seasoned artist would be familiar with."
 
-**[6:00-7:30]**
+**[5:45-7:00]**
 Luca: We learn here that the original team surrounding the project in 2016 were “amateurs”, a sentiment that Ruth shared throughout our interview. So, it isn’t too surprising to learn that Indigenous perspectives weren’t actively included. Still, this brings up important questions about representation. Especially, since Statues, as many scholars suggest, aren’t neutral. When Indigenous leaders like Sol Mamakwa express concern that such a statue is allowing for broader colonial symbols that remain in public spaces.
 
 Ryan: Those ideas are very important aspects to consider, especially when dealing with an area so impactful to the world, Canada, and Ontario as the British Monarchy was and still is. Systems are still entrenched within our society to this day. But, the arguments that Ruth laid out are strong: This statue honours the person that Queen Elizabeth II was.
 
 Luca: Finally, we look into how the statue interacts with Ontario’s past, and how its interpretation may change over time.
 
-**[7:30-8:00]** 
+**[7:00-7:20]** 
 Ruth Abernethy: "I think straightforward is still the phrase. I mean, I don’t think we wanted something that was too avant-garde or too far from the traditional, because, you know, it's a public monument. I would assume it’s not a public portrait that needs a lot of interpretation. The goal was that anyone could walk up to it and just see and understand who she was and what she meant. So, straightforward in that sense, yes."
 
-**[8:00-9:50]** 
+**[7:20-8:15]** 
 Ryan: Ruth gives us a very detailed response on this topic, one which due to time we cannot fully listen to and unpack. But, she discusses how she sees it as not a public portrait needing a lot of interpretation. She also mentions how if we’re looking at the history of the monarchy, Canada also needs to look into its own history, and the decisions we’ve made.
 
 Luca: This relates to the idea of the semiotic approach, something that I read in an article written by Federico Bellentani and Mario Panico. It identifies looking at statues and monuments through the lens of a semiotic approach, meaning that we analyze the cultural context in which a monument was erected.
@@ -73,7 +73,7 @@ Ryan: It also means that you analyze how the meanings of monuments can change as
 
 Luca: And we’d like to thank Professor Jennifer Bonnell, the Making Media Creation Lab at York University, and thank you to everyone for listening to the Silent Historian.
 
-**[9:50-10:00]** *(Outro music fades out: "God Save the Queen" - instrumental.)*
+**[8:15-8:30]** *(Outro music fades out: "God Save the Queen" - instrumental.)*
 
 
 ## Links
